@@ -1,2 +1,2 @@
 # first_workflow
-https://github.com/github/deffuzerg/first-workflow/actions/workflows/greetings.yml/badge.svg
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
