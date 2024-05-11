@@ -1,2 +1,2 @@
 # first_workflow
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![example branch parameter](https://github.com/github/deffuzerg/first-workflow/actions/workflows/greetings.yml/badge.svg?branch=feature-1)
