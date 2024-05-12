@@ -1,2 +1,3 @@
 # first_workflow
-![Build Status](https://github.com/deffuzerg/first_workflow/workflows/greetengs.yml/badge.svg)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/deffuzerg/first_workflow/greetengs.yml)
+
