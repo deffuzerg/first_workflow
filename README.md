@@ -1,2 +1,2 @@
 # first_workflow
-https://github.com/github/deffuzerg/first-workflow/actions/workflows/greetings.yml/badge.svg
+![Build Status](https://github.com/deffuzerg/first_workflow/workflows/Tests/badge.svg)](https://github.com/deffuzerg/first_workflow/actions/workflows/greetings.yml)
